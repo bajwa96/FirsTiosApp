@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					2E21A40A1F5C23B900818B18 = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = WKR72472GP;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -262,7 +263,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = WKR72472GP;
 				INFOPLIST_FILE = Pitchperfect/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = b.Pitchperfect;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -274,7 +277,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = WKR72472GP;
 				INFOPLIST_FILE = Pitchperfect/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = b.Pitchperfect;
 				PRODUCT_NAME = "$(TARGET_NAME)";
